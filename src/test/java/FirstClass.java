@@ -9,6 +9,7 @@ public class FirstClass {
          System.out.println("change 5"); 
        //first change
         //another change
-    
+        System.out.println("Working hard");
+        System.out.println("working too much");
     }
 }
